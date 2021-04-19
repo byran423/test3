@@ -17,7 +17,7 @@ class Hero():
 					print(enemy_name)
 					return False
 				if enemy_final_hp <= my_hp:
-					print(f'{self.name}赢了')
+					print(f'{self.name}赢了' )
 					return False
 
 
